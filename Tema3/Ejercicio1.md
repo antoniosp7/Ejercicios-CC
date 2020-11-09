@@ -1,4 +1,4 @@
-# Ejercicio 1
+# Ejercicio 1 Buscar alguna demo interesante de Docker y ejecutarla localmente, o en su defecto, ejecutar la imagen anterior y ver cómo funciona y los procesos que se llevan a cabo la primera vez que se ejecuta y las siguientes ocasiones
 
 
 La demo ejecutada será del contenedor 'daleksay' al igual que el ejemplo dado en los apuntes de clase y se ha encontrado en el siguiente [repositorio](https://github.com/JJ/docker-daleksay).

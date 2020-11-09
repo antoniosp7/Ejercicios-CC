@@ -1,4 +1,4 @@
-# Ejercicio 2
+# Ejercicio 2 Tomar algún programa simple, “Hola mundo” impreso desde el intérprete de línea de órdenes, y comparar el tamaño de las imágenes de diferentes sistemas operativos base, Fedora, CentOS y Alpine, por ejemplo
 
 El primer paso será crear los dockerfile, para ello hemos seguido las directrices de la siguiente [página](https://examples.javacodegeeks.com/devops/docker/docker-hello-world-example/).
 
